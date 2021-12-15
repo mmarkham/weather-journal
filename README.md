@@ -8,3 +8,11 @@ This will require modifying the server.js file and the website/app.js file. You 
 Extras
 
 If you are interested in testing your code as you go, you can use tests.js as a template for writing and running some basic tests for your code.
+
+Installation
+
+1. Clone the repository
+2. Install Node.js
+3. Open a console, navigate to the project folder, and type 'npm install'. This will install the required packages (Express, cors, body-parser).
+4. In the console type, 'node server.js' to start the Express server
+5. Open a browser and go to 'localhost:3000'
